@@ -2,4 +2,5 @@ assignment1/cs231n/datasets/*.*
 assignment1/liblinear/*.*
 assignment1/lib/*.*
 assignment2/cs231n/datasets/*.*
-assignment3/cs231n/datasets/*.* 
+assignment3/cs231n/datasets/coco_captioning
+assignment3/cs231n/datasets/tiny-imagenet-100-A
